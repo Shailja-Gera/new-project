@@ -1,4 +1,5 @@
-# cicdapp for MLOps Project V10
+# cicdapp for MLOps Project shailja
+
 
 ## Project setup
 ```
